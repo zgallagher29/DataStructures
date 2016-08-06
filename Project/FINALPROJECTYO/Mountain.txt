@@ -1,0 +1,12 @@
+item, weight, volume, cost at home, cost at destination
+boots, 10, 10, 89.99, 50.99,
+climbing gear, 15, 10, 150, 125,
+crampons, 5,5,100,125,
+tent,20,35,200,200,
+water bottle, 2,10,10,15
+compass, 1, 1, 10, 15
+helmet,3,8,20,25,
+wind breaker,3,5,40.00,45.00
+fire starter,1,1,10.00,5.00
+goggles, 2,3,25.00,21.99,
+gloves, 1, 2, 3.00, 10.00

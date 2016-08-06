@@ -1,0 +1,11 @@
+item, weight, volume, cost at home, cost at destination\
+sunscreen, 0.45, 0.5, 4.99, 6.99
+towel, 0.4,  84, 9.99, 10.95
+sunglasses, 0.23, 0.098, 25.99, 30.00
+water bottle, 0.23, 2, 10.00, 12.00
+granola bars, 0.040, 0.033, 0.75, 0.75
+bathing suit, 0.34, 0.70, 20, 15
+sandals, 0.15, 0.52, 30, 5
+beach chair, 3.2, 49.4, 29.96 USD, 15.89
+beach umbrella, 4, 14.2, 20, 22
+drink cooler, 0.31, 4.72, 5.99, 7.00

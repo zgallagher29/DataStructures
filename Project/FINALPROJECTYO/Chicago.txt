@@ -1,0 +1,13 @@
+item,weight(kg),volume(L),pricehere(USD),pricethere(USD)
+sunglasses,0.23,0.098,25.99,30.00
+hoodie,0.68,2.0,15.00,20.00
+filled water bottle,0.75,2.36,5.00,5.00
+watch,0.5,0.01,15,35
+cellphone,0.5,0.02,0,300
+keys,0.20,0.10,0,0
+wallet,0.25,0.15,0.00,20
+tickets to a musuem,0.01,0.05,12.00,15
+umbrella,1,0.35,5,10
+shoes,1.58,4,20,60
+toiletries,2,1,10,12
+outfit for one day,2,3,40.00,50.00

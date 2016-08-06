@@ -1,0 +1,7 @@
+Name: Ì)¥
+Destination: Chicago.txt
+Money to Spend: 0
+Items Bought: 
+sunglasses
+wallet
+Have a great trip!
